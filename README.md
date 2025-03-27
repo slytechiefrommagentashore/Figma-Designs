@@ -27,6 +27,8 @@ Here are direct links to the Figma files:
 - [Project 1: ](https://www.figma.com/file/your-link)
 - [Project 2: Design Name](https://www.figma.com/file/your-link)
 -->
+
+Here's my Dribbble profile where I post my designs [Slytechie](https://dribbble.com/Slytechie)
 ---
 
 ## 🛠️ How to Use
